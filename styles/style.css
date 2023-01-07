@@ -59,7 +59,7 @@
 /* about section styles  */
 .about{
     display: flex;
-    gap: 30px;
+    gap: 87px;
     position: absolute;
     width: 1072px;
     height: 723.3px;
@@ -67,3 +67,32 @@
     right: 332px;
     top: 700px;
 }
+.about-container{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 642px;
+    top: 265px;
+}
+.about-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'Work Sans';
+    line-height: 47px;
+}
+.about-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding-top: 24px;
+}
+.about-icons{
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding-top: 15px;
+}
+
+/* plans section styles  */
